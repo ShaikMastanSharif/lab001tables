@@ -1,5 +1,5 @@
 public class LengthofString {
-    blic static void main(String[] args) {
+    public static void main(String[] args) {
         String str = "mastAn sharif";
         int count = 0;
 
@@ -13,7 +13,7 @@ public class LengthofString {
 
 
 }
-pu
+
 
 
 
