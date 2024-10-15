@@ -3,7 +3,7 @@ public class charcterinstring {
         String str = " testing world with sharif automation labs";
         int count=0;
         for(char c: str.toCharArray()){
-            if(c==' '){
+            if(c=='a'){
                 count++;
 
             }
